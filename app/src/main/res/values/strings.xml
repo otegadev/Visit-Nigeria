@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Visit Nigeria</string>
+    <string name="category_amusement_park">Amusement parks</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_shopping_malls">Shopping malls</string>
+    <string name="category_recreational_centers">Recreational centers</string>
+    <string name="category_beaches">Beaches</string>
+    <string name="category_natural_reserves_zoos">Natural reserves and zoos</string>
+    <string name="category_natural_attractions">Natural attractions</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="recommendation_amusement_park_1">Emmanuel Park</string>
+    <string name="recommendation_amusement_park_2">Hi Impact Planet</string>
+    <string name="recommendation_amusement_park_3">Dreamworld Africana</string>
+    <string name="recommendation_amusement_park_4">Park Vega Waterpark</string>
+    <string name="recommendation_restaurants_1">Wakame Restaurant</string>
+    <string name="recommendation_restaurants_2">Hard Rock Cafe</string>
+    <string name="recommendation_restaurants_3">BluCabana Restaurant and Cafe</string>
+    <string name="recommendation_restaurants_4">AsiaTown Restaurant</string>
+    <string name="recommendation_restaurants_5">Ekaabo Restaurant</string>
+    <string name="recommendation_shopping_malls_1">Ikeja City Mall</string>
+    <string name="recommendation_shopping_malls_2">Jabi Lake Mall</string>
+    <string name="recommendation_shopping_malls_3">Dunes Center</string>
+    <string name="recommendation_shopping_malls_4">Mega Plaza Century 21 Mall</string>
+    <string name="recommendation_recreational_centers_1">VR place Nigeria</string>
+    <string name="recommendation_recreational_centers_2">Leisure Sports Paintball</string>
+    <string name="recommendation_recreational_centers_3">Upbeat Recreation Centre</string>
+    <string name="recommendation_recreational_centers_4">Crusifix Games and Lounge</string>
+    <string name="recommendation_beaches_1">Landmark Beach</string>
+    <string name="recommendation_beaches_2">Ibeno Beach</string>
+    <string name="recommendation_beaches_3">Suntan Beach</string>
+    <string name="recommendation_beaches_4">Oniru Private Beach</string>
+    <string name="recommendation_natural_reserves_zoos_1">Lekki Conservation Centre</string>
+    <string name="recommendation_natural_reserves_zoos_2">Yankari Game Reserve</string>
+    <string name="recommendation_natural_reserves_zoos_3">Ogba Zoo</string>
+    <string name="recommendation_natural_reserves_zoos_4">UI Zoo</string>
+    <string name="recommendation_natural_attractions_1">Zuma Rock</string>
+    <string name="recommendation_natural_attractions_2">Wikki Warm Springs</string>
+    <string name="recommendation_natural_attractions_3">Ikogosi Warm Springs</string>
+    <string name="recommendation_natural_attractions_4">Idanre Hills</string>
+    <string name="recommendation_hotels_1">Transcorp Hilton Abuja</string>
+    <string name="recommendation_hotels_2">Lagos Continental Hotel</string>
+    <string name="recommendation_hotels_3">Eko Hotels and Suites</string>
+    <string name="recommendation_hotels_4">Radisson Hotel</string>
+    <string name="recommendation_hotels_5">Legend Hotel Lagos Airport, Curio Collection by Hilton</string>
+    <string name="recommendation_amusement_park_1_location">
+        Loburo 110113, Ogun State. Located in: The Redeemed Christian Church Of God Redemption Camp Arena
+    </string>
+    <string name="recommendation_amusement_park_2_location">
+        km 12 Lagos Ibadan Express Lagos, Lagos - Ibadan Expy, Ibafo, Ogun State
+    </string>
+    <string name="recommendation_amusement_park_3_location">
+        First Right Turn After The 2nd Tollgate KM 20 Lekki-Ajah Expressway, Lekki Peninsula II, Lekki
+    </string>
+    <string name="recommendation_amusement_park_4_location">
+        Nmordi Street Ewuru Road, off Benin-Asaba Hwy, Expressway, Agbor
+    </string>
+    <string name="recommendation_restaurants_1_location">
+        Marriott Hotel Ikeja, 122 Joel Ogunnaike St, Ikeja GRA, Lagos 100271, Lagos
+    </string>
+    <string name="recommendation_restaurants_2_location">
+        Landmark Village, Water Corporation Road, Oniru, VI, Lagos 550104
+    </string>
+    <string name="recommendation_restaurants_3_location">
+        1322 Shehu Yar\'adua Wy, Mabushi, Abuja 900108, Federal Capital Territory
+    </string>
+    <string name="recommendation_restaurants_4_location">
+        38 Forces Ave, Old GRA, Port Harcourt 500101, Rivers
+    </string>
+    <string name="recommendation_restaurants_5_location">
+        52b Kofo Abayomi St, Eti-Osa, Lagos 001111, Lagos
+    </string>
+    <string name="recommendation_shopping_malls_1_location">
+        Obafemi Awolowo Wy, Alausa, Ojodu 101233, Lagos
+    </string>
+    <string name="recommendation_shopping_malls_2_location">
+        Bala Sokoto Wy, Jabi, Abuja 900108, Federal Capital Territory
+    </string>
+    <string name="recommendation_shopping_malls_3_location">
+        N44 Aguiyi Ironsi St, Maitama, Abuja 900271, Federal Capital Territory
+    </string>
+    <string name="recommendation_shopping_malls_4_location">
+        14 Idowu Martins St, Victoria Island, Lagos 106104, Lagos
+    </string>
+    <string name="recommendation_recreational_centers_1_location">
+        14b Karimu kotin Victoria island Eti osa 1, Victoria island 110011, Lagos
+    </string>
+    <string name="recommendation_recreational_centers_2_location">
+        39 Kusenla Rd, Lekki Peninsula II, Lekki 106104, Lagos
+    </string>
+    <string name="recommendation_recreational_centers_3_location">
+        11 Admiralty Rd, Lekki Phase 1, Lagos 105102, Lagos
+    </string>
+    <string name="recommendation_recreational_centers_4_location">
+        1 Bisway St, Oniru, Lagos 106104, Lagos.
+        Located in: The Palms Shopping Mall
+    </string>
+    <string name="recommendation_beaches_1_location">
+        Landmark Village, 4 Water Corporation Dr, Victoria Island, Lagos 106104, Lagos
+    </string>
+    <string name="recommendation_beaches_2_location">
+        Kwa Ibo, Akwa Ibom
+    </string>
+    <string name="recommendation_beaches_3_location">
+        Badagry 103241, Lagos
+    </string>
+    <string name="recommendation_beaches_4_location">
+        1 Ligali Ayorinde St, Eti-Osa, Lagos 106104, Lagos
+    </string>
+    <string name="recommendation_natural_reserves_zoos_1_location">
+        Km 19 Lekki - Epe Expy, Lekki Peninsula II, Lekki 106104, Lagos
+    </string>
+    <string name="recommendation_natural_reserves_zoos_2_location">
+        Yankari, Mainamaji 234077, Bauchi
+    </string>
+    <string name="recommendation_natural_reserves_zoos_3_location">
+        Airport Rd, Ogba, Benin City 300101, Edo
+    </string>
+    <string name="recommendation_natural_reserves_zoos_4_location">
+        Appleton Rd, Ibadan 200132, Oyo
+    </string>
+    <string name="recommendation_natural_attractions_1_location">
+        Kubwa 901101, Federal Capital Territory
+    </string>
+    <string name="recommendation_natural_attractions_2_location">
+        Jagudi 743103, Bauchi
+    </string>
+    <string name="recommendation_natural_attractions_3_location">
+        Ikogosi 362105, Ekiti
+    </string>
+    <string name="recommendation_natural_attractions_4_location">
+        Idanre Hills, Ijomu/Isurin 340108, Ondo
+    </string>
+    <string name="recommendation_hotels_1_location">
+        1 Aguiyi Ironsi St, Maitama, Abuja 900001, Federal Capital Territory
+    </string>
+    <string name="recommendation_hotels_2_location">
+        52a Kofo Abayomi St, Victoria Island, Lagos 101241, Lagos
+    </string>
+    <string name="recommendation_hotels_3_location">
+        1415 Adetokunbo Ademola Street, Victoria Island, Lagos 106104, Lagos
+    </string>
+    <string name="recommendation_hotels_4_location">
+        1a Ozumba Mbadiwe Ave, Victoria Island, Lagos 101241, Lagos
+    </string>
+    <string name="recommendation_hotels_5_location">
+        Quits Aviation Services Free Zone, Airport Rd, Ikeja 23401, Lagos
+    </string>
+    <string name="recommendation_lorem_description">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. In aliquet in nulla non aliquam. Vivamus ac arcu id urna sagittis semper. Nam a nunc sem. Nam accumsan iaculis diam eu ultricies. Fusce eget ante vitae purus porta congue vitae sed odio. Nulla quis turpis fermentum, molestie quam cursus, volutpat lorem. Mauris et ipsum justo. Vestibulum massa metus, sollicitudin quis blandit at, vehicula at ante. Nam volutpat mi urna, eget placerat lorem consectetur eget. Aliquam ullamcorper, metus sit amet commodo maximus, massa sapien imperdiet libero, a laoreet dolor nisl a ante. Cras laoreet egestas lacus, ac tincidunt nunc sagittis nec. In interdum turpis in mauris tincidunt, ac vehicula quam sagittis. Donec ultrices augue ligula.
+Ut eu ornare mi. Aenean ultrices, augue ac euismod facilisis, arcu lacus tincidunt enim, ac aliquam massa ex nec metus. Maecenas sagittis porttitor nunc eget rhoncus. Nam accumsan posuere purus, sed gravida velit ultrices cursus. Fusce auctor.
+    </string>
+    <string name="location">Location</string>
+    <string name="about">About This Place</string>
+    <string name="back">Back Arrow</string>
+</resources>
