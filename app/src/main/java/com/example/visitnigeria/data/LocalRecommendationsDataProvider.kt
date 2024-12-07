@@ -61,7 +61,7 @@ object LocalRecommendationsDataProvider {
     val hotelsRecommendations: List<Recommendation> = listOf(
         Recommendation(
             name = R.string.recommendation_hotels_1,
-            image = R.drawable.vecteezy_default_image_missing_placeholder_48910778,
+            image = R.drawable.transcorp,
             information = R.string.recommendation_lorem_description,
             location = R.string.recommendation_hotels_1_location
         ),

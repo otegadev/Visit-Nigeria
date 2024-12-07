@@ -7,8 +7,10 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.wrapContentSize
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -24,6 +26,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
 import com.example.visitnigeria.R
 import com.example.visitnigeria.data.LocalRecommendationsDataProvider
 import com.example.visitnigeria.model.Recommendation
@@ -80,6 +83,7 @@ fun RecommendationCard(
                 modifier = Modifier
                     .fillMaxWidth()
                     .wrapContentSize()
+                    .size(width = 500.dp, height = 250.dp)
             )
             Text(
                 text = stringResource(recommendationName),
@@ -104,7 +108,8 @@ fun RecommendationImage(
         Image(
             painter = painterResource(recommendationImage),
             contentDescription = stringResource(recommendationName),
-            contentScale = ContentScale.Fit
+            contentScale = ContentScale.Crop,
+            modifier = Modifier.fillMaxSize()
         )
     }
 }

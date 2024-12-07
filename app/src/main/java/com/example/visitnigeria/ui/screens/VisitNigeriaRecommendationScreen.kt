@@ -6,7 +6,9 @@ import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
@@ -25,6 +27,7 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.dimensionResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.dp
 import com.example.visitnigeria.R
 import com.example.visitnigeria.ui.theme.VisitNigeriaTheme
 
@@ -47,6 +50,8 @@ fun InformationScreen(
                 recommendationName = recommendationName,
                 modifier = Modifier
                     .clip(MaterialTheme.shapes.small)
+                    .fillMaxWidth()
+                    .size(width = 500.dp, height = 250.dp)
             )
             IconAndText(
                 text = R.string.location,
